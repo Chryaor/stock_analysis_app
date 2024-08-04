@@ -13,6 +13,7 @@ ScreenShots:
 
 ![image](https://github.com/user-attachments/assets/d6164aef-49dd-404f-871a-167ad375de04)
 >>>
-    this should be rendered as a multiple line quote
+   Alpha Vantage for Stock API
+>>>Apex Charts for visualization
 >>><br/>
 **Note: Install dependencies like Axios, node modules, python virtual env if no module error shows up. Also using a public demo API of AlphaVantage.**
