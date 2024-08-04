@@ -1,6 +1,4 @@
-**Stock Analysis App using Python Flask and ReactJs**
-.
-.
+# **Stock Analysis App using Python Flask and ReactJs**
 How to Run: 
 1. Pull from github or download the zip
 2. open two terminals
