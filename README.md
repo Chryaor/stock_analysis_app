@@ -2,7 +2,7 @@ Stock Analysis App using Python Flask and ReactJs
 .
 .
 How to Run: 
-1. Pull from github or download the code
+1. Pull from github or download the zip
 2. open two terminals
 3. In the first terminal, use python venv and type the command `flask run`
 4. In the second, type `npm start` or `npm start dev`
