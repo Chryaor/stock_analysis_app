@@ -1,4 +1,4 @@
-Stock Analysis App using Python Flask and ReactJs
+**Stock Analysis App using Python Flask and ReactJs**
 .
 .
 How to Run: 
@@ -15,4 +15,5 @@ ScreenShots:
 
 ![image](https://github.com/user-attachments/assets/d6164aef-49dd-404f-871a-167ad375de04)
 
-Note: Install dependencies like Axios, node modules, python virtual env if no module error shows up. Also using a public demo API of AlphaVantage.
+**Note: Install dependencies like Axios, node modules, python virtual env if no module error shows up. Also using a public demo API of AlphaVantage.
+**
